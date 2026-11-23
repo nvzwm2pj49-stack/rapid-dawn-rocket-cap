@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ancient Forest Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 915,
+      "bodyTextHash": "0dd3bf091c090647d319ba4063777c3b5e204fab10d9d09fee22529c00b2ed2c",
+      "bodyTextPrefix": "Locale atlas Ancient Forest Place pin Layers Illustration The fi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ancient Forest Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 96,
+      "bodyTextHash": "8642248cfbe7f5ed033cbeeda779ff1380d567fe668457a6591e771eb0f1278c",
+      "bodyTextPrefix": "Locale atlas Ancient Forest Place pin Layers and codex 0 shown D",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
